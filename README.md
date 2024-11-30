@@ -23,7 +23,9 @@ fondamentali per sviluppare il progetto
 
 è il motore che  fa partire il nostro progetto, dove aggiungere plug-in, dipendenze, ecc...
 
+# parentesi nei return
 
+il return deve avere un unico elemento radice
 ================
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

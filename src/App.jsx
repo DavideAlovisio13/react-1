@@ -8,6 +8,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
+    // frammento, riconoscituo come tag radice e non viene reinderizzato dallo html
     <>
       <Navbar></Navbar>    
       <div>

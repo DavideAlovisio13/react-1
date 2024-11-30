@@ -1,6 +1,6 @@
-function Link() {
+function Link({children}) {
     return (
-        <a href="#">Ciaooo</a>
+        <a href="#">{children}</a>
     )
 }
 
